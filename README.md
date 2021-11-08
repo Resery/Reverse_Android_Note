@@ -12,9 +12,9 @@
 </details>
 
 <details>
-<summary>第二周  ( 2021.11.01 - 2021.11.07 )  :  Shell：</summary>
+<summary>第二周  ( 2021.11.08 - 2021.11.14 )  :  Shell：</summary>
 
-- [x] Dalvik 和 Art 加载器以及 loadClass
-  部分的源码分析，记了一个笔记，这周把所有笔记写完之后更新到仓库中
+- 2021.11.08
+  - [x] Dalvik 和 Art 加载器以及 loadClass 部分的源码分析，记了一个笔记，这周把所有笔记写完之后更新到仓库中
 
 </details>
